@@ -11,3 +11,5 @@
 **모델** : KoGPT2
 
 **결과**
+
+<img width="695" alt="화면 캡처 2022-11-12 234101" src="https://user-images.githubusercontent.com/97178674/201479623-0f25c4e9-03c7-4fc0-ae2d-b40ad4eba4f9.png">
